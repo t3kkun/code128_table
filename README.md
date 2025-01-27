@@ -17,7 +17,7 @@ CSVファイルを作成後実行すればすぐ規定フォーマットのバ�
 - 日本語フォント
 - データの入ったCSVファイル(codes.csv)
   
-NotoSansCJKjp-VF.ttfを想定．
+[NotoSansCJKjp-VF.ttf](https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/Variable/TTF/NotoSansCJKjp-VF.ttf)を想定．
 
 他のフォントでも動くと思いますが，font_pathを変更するか"NotoSansCJKjp-VF.ttf"へリネームしていただければと思います
 
